@@ -1,6 +1,6 @@
 # Web and Twilio powered SMS Messages app
 
-This is an implementation of an SMS Messages app that you can use with a [Twilio](https://twilio.com) number.
+Cloned from [Phil Nash](https://github.com/philnash/sms-messages-app). This is an implementation of an SMS Messages app that you can use with a [Twilio](https://twilio.com) number.
 
 ## Warning
 
@@ -11,14 +11,15 @@ This is a work in progress as there are plenty of features to add. Currently the
 * Conversation view of messages between your Twilio number and another number
 * Reply to a conversation
 * Create a new message to a new recipient
+* Broadcast a single message to multiple recipients
 
 ## Getting started
 
 Clone the repository and install dependencies:
 
 ```bash
-$ git clone https://github.com/philnash/sms-messages-app.git
-$ cd sms-messages-app
+$ git clone https://github.com/garytou2/twilio-broadcast-web-app
+$ cd twilio-broadcast-web-app
 $ npm install
 ```
 

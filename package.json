@@ -1,7 +1,7 @@
 {
-  "name": "sms-messages-app",
+  "name": "twilio-broadcast-web-app",
   "version": "1.0.0",
-  "description": "An SMS inbox for Twilio",
+  "description": "An SMS inbox for Twilio with broadcasting feature. Cloned from https://github.com/philnash/sms-messages-app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,8 +11,8 @@
     "twilio",
     "sms"
   ],
-  "author": "Phil Nash <philnash@twilio.com>",
-  "license": "ISC",
+  "author": "Gary Tou <garytou2@gmail.com> (https://garytou.com)",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.14.2",
     "express": "^4.13.4",
