@@ -18,7 +18,7 @@ This is a work in progress as there are plenty of features to add. Currently the
 Clone the repository and install dependencies:
 
 ```bash
-$ git clone https://github.com/garytou2/twilio-broadcast-web-app
+$ git clone https://github.com/garyhtou/twilio-broadcast-web-app
 $ cd twilio-broadcast-web-app
 $ npm install
 ```
